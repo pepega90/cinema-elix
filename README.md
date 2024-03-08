@@ -1,4 +1,6 @@
-# Bioskop
+# CinemaElix
+
+<img src="https://github.com/pepega90/cinema-elix/blob/main/preview.gif" />
 
 To start your Phoenix server:
 
